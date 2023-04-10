@@ -13,7 +13,6 @@
     "wdio-chromedriver-service": "^8.1.1"
   },
   "scripts": {
-    "wdio": "wdio run ./wdio.conf.js",
-    "specific" : "wdio run ./wdio.conf.js --spec ./test/specs/example.e2e.js"
+    "wdio": "wdio run ./wdio.conf.js"
   }
 }
