@@ -3,7 +3,7 @@
 import Page from './page.js';
 
 /**
- * sub page containing specific selectors and methods for a specific page
+ * sub page containing specific selectors and methods for a specific pagea
  */
 class LoginPage extends Page {
     /**
